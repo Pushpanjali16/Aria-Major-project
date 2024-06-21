@@ -56,7 +56,7 @@ nav ul a:hover{
     padding: .5rem;
 }
 .back-icons span{
-    background-image: url(./assets/hexagon-green.svg);
+    background-image: url(hexagon-green.svg);
     background-repeat: no-repeat;
     background-position: center;
     width: 25px;
@@ -84,7 +84,7 @@ nav ul a:hover{
 .hero-section{
   padding-top: 18rem;
   padding-bottom: 19rem;
-  background-image: url(./assets/header-background.jpg);
+  background-image: url(header-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
